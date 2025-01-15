@@ -2,7 +2,7 @@
 
 /* Custom styles for the theme */
 body {
-	font-family: 'Geist Mono';    
+	font-family: 'Geist Mono';
 	font-optical-sizing: auto;
 	font-size: 14px;
 }
@@ -86,7 +86,7 @@ a:active {
 }
 
 .intro {
-	margin: 0 0 40px;
+	margin: 0 0 20px;
 }
 
 .latest-posts {
