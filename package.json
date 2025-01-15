@@ -39,11 +39,11 @@
 			}
 		},
 		"card_assets": true,
-		"welcome_text": {
-			"type": "text",
-			"group": "homepage"
-		},
 		"custom": {
+			"welcome_text": {
+				"type": "text",
+				"group": "homepage"
+			},
 			"footer_text": {
 				"type": "text"
 			}
