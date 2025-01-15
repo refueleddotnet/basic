@@ -1,7 +1,7 @@
 ## Themepost
 
 Themepost by [Themepost](http://themepost.dev).
-Themepost is a clean, lightweight theme that is a perfect starting point for blogs.
+Basic is a clean and minimalist blogging theme for Ghost. Designed to provide a seamless, text-focused experience. Perfect for writers and content creators who value simplicity and readability, this theme puts your content front and center, offering a distraction-free platform for storytelling.
 
 ## Live Demo
 [Live Demo](https://themepost.dev/previews/basic)
