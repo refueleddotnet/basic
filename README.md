@@ -15,7 +15,7 @@ Basic is a clean and minimalist blogging theme for Ghost. Designed to provide a 
 Basic is released under the MIT license. While we appreciate you keeping our credit links intact, this is not required.
 
 ## Theme Support
-You are using Basic Pro. This edition does not include theme options or theme support. If you need support, simply purchase [Basic](http://themepost.dev/basic).
+You are using Basic Pro. You are entitled to 6 months of theme support and priority updates. [Contact](http://themepost.dev/contact) if you need help.
 
 Need to edit Basic? The best free editor is VS Code. VS Code download:
 https://code.visualstudio.com/
