@@ -1,6 +1,6 @@
-## Basic Ghost Theme
+## Basic Ghost Theme: Pro Edition
 
-Basic by [Themepost](http://themepost.dev).
+Basic by [Themepost](http://themepost.dev/basic).
 Basic is a clean and minimalist blogging theme for Ghost. Designed to provide a seamless, text-focused experience. Perfect for writers and content creators who value simplicity and readability, this theme puts your content front and center, offering a distraction-free platform for storytelling.
 
 ## Live Demo
@@ -12,7 +12,10 @@ Basic is a clean and minimalist blogging theme for Ghost. Designed to provide a 
  * default.hbs
 
 ## Credit Links
-Themepost is released under the MIT license. While we appreciate you keeping our credit links intact, this is not required. Simply go to your ```Ghost dashboard > Settings > Design > on left sidebar choose 'Site Wide'``` and you'll see a section to add your custom credit. There is no need to touch any code.
+Basic is released under the MIT license. While we appreciate you keeping our credit links intact, this is not required.
 
-Need to edit Themepost? The best free editor is VS Code. VS Code download:
+## Theme Support
+You are using Basic Pro. This edition does not include theme options or theme support. If you need support, simply purchase [Basic](http://themepost.dev/basic).
+
+Need to edit Basic? The best free editor is VS Code. VS Code download:
 https://code.visualstudio.com/
