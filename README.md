@@ -1,4 +1,4 @@
-## Basic Ghost Theme: Pro Edition
+## Basic Ghost Theme
 
 Basic by [refueled](http://refueled.net/basic).
 Basic theme for Ghost is all about simplicity, focusing purely on the text to enhance readability and storytelling.
