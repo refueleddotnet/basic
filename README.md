@@ -3,9 +3,6 @@
 Basic by [refueled](http://refueled.net/basic).
 Basic theme for Ghost is all about simplicity, focusing purely on the text to enhance readability and storytelling.
 
-## Live Demo
-[Live Demo](https://refueled.net/previews/basic)
-
 ## Files to edit
 
  * /assets/css/screen.css
